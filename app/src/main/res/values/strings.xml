@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pedra Papel ou Tesoura</string>
+    <string name="title_1">Escolha do App</string>
+    <string name="title_2">Escolha uma opção abaixo</string>
+    <string name="imagem_pedra">Pedra</string>
+    <string name="papel">Papel</string>
+    <string name="tesoura">Tesoura</string>
+    <string name="imagem_do_app">Imagem do App</string>
+</resources>
